@@ -538,6 +538,7 @@ section {
 .clients {
   padding: 12px 0;
   text-align: center;
+  border-radius: 1px solid #fff;
 }
 
 .clients img {
@@ -546,6 +547,7 @@ section {
   display: inline-block;
   padding: 15px 0;
   filter: grayscale(100);
+  border-radius: 5px;
 }
 
 .clients img:hover {
@@ -637,7 +639,7 @@ section {
 }
 
 .why-us .content p {
-  font-size: 15px;
+  font-size: 16px;
   color: #848484;
 }
 
@@ -754,6 +756,7 @@ section {
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   background: #fff;
+  border-radius: 5px;
 }
 
 .services .icon-box .icon {
@@ -779,7 +782,7 @@ section {
 
 .services .icon-box p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 15px;
   margin-bottom: 0;
 }
 
@@ -789,6 +792,10 @@ section {
 
 .services .icon-box:hover h4 a {
   color: #47b2e4;
+}
+
+.row {
+  border-radius: 3%;
 }
 
 /*--------------------------------------------------------------
