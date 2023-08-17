@@ -1152,6 +1152,7 @@ section {
 .clients .clients-slider .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
+  border-radius: 30%;
 }
 
 .clients .clients-slider .swiper-slide img:hover {
