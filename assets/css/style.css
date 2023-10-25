@@ -914,6 +914,7 @@ section {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   transition: 0.3s;
   border-radius: 20%;
+  /* border: 1px solid #4154f1; */
 }
 
 .products .clients-slider .swiper-slide img:hover {
